@@ -1,7 +1,9 @@
 # Hello, this is Daniel!
 
-I'm now working full-time at IBM, and studying part-time at the National University of Singapore.
+I'm now working full-time at IBM, and studying Supply Chain Management (part-time) at the National University of Singapore.
 
-Currently, I am teaching myself programming and data analytics in the Supply Chain context, to offer more value to both my current and future employers.
+To offer more value to both my current and future employers, I am actively teaching myself programming and data anlytics.
+
+As such, I am focused on creating Python-related projects to bring value to different aspects of the supply chain, such as optimization, analytics, forecasting, etc.
 
 If you have stumbled upon this GitHub page, let's connect at [LinkedIn](https://linkedin.com/in/dwoo-work)
