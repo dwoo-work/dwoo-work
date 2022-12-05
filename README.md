@@ -8,6 +8,6 @@ As such, I am focused on creating Python-related projects to bring value to diff
 
 If you have stumbled upon this GitHub page, let's connect at [LinkedIn](https://linkedin.com/in/dwoo-work)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwoo-work&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwoo-work&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwoo-work&layout=compact)](https://github.com/dwoo-work/github-readme-stats)
