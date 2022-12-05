@@ -7,3 +7,5 @@ To offer more value to both my current and future employers, I am actively teach
 As such, I am focused on creating Python-related projects to bring value to different aspects of the supply chain, such as optimization, analytics, forecasting, etc.
 
 If you have stumbled upon this GitHub page, let's connect at [LinkedIn](https://linkedin.com/in/dwoo-work)
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwoo-work)](https://github.com/dwoo-work/github-readme-stats)
